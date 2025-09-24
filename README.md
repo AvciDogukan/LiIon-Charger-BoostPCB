@@ -17,6 +17,11 @@ Bu proje, **USB üzerinden Li-Ion pil şarjı** ve aynı anda **5V çıkış sa�
 ## 🖼️ PCB Görünümü
 ![PCB Layout](images/pcb.png)
 
+## 🖼️ 3D View Görünümü
+![PCB Layout](images/3Dview.png)
+
+## 🖼️ 2D View Görünümü
+![PCB Layout](images/2Dview.png)
 ---
 
 ## 🔧 Teknik Özellikler
